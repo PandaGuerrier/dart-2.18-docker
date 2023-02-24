@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH dart:dart:2.18.1
+FROM        --platform=$TARGETOS/$TARGETARCH dart:2.18.1
 
 LABEL       author="Alden Bansemer" maintainer="alden@knoban.com"
 
